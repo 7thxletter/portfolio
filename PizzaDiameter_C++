@@ -1,5 +1,6 @@
 //Gerard Lawrence
-//This code finds the diameter of 
+//Program: C++
+//This code finds the diameter of a whole pizza
 
 #include <iostream> 
 #include <string>
